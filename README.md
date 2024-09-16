@@ -1,8 +1,5 @@
 # Hi there 👋 
-## My name is Taslima (or Tas) and I can't wait to collab with you!
-
-
-**Tasliima/Tasliima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _My name is Taslima (or Tas) and I can't wait to collab with you!_
 
 Here are some things about me :)
 
