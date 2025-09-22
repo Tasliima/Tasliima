@@ -7,6 +7,5 @@
 - 🤔 I’m looking for help with Python + Java
 - 💬 Ask me about anything
 - 📫 How to reach me: tasliimakhanom@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am the sisters' marketing lead for my ISoc!
 
